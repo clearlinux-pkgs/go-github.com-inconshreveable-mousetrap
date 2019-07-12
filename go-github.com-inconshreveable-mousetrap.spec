@@ -4,7 +4,7 @@
 #
 Name     : go-github.com-inconshreveable-mousetrap
 Version  : v1.0.0
-Release  : 1
+Release  : 2
 URL      : https://proxy.golang.org/github.com/inconshreveable/mousetrap/@v/list
 Source0  : https://proxy.golang.org/github.com/inconshreveable/mousetrap/@v/list
 Source1  : https://proxy.golang.org/github.com/inconshreveable/mousetrap/@v/v1.0.0.info
